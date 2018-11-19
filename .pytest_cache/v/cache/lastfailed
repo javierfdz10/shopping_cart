@@ -1,0 +1,8 @@
+{
+  "test_shopping_cart.py::test_checkout_black_gold_two_items_in_mylist": true,
+  "test_shopping_cart.py::test_checkout_blue_insurance": true,
+  "test_shopping_cart.py::test_checkout_blue_three_insurance_in_different_order": true,
+  "test_shopping_cart.py::test_checkout_returns_number": true,
+  "test_shopping_cart.py::test_checkout_two_items_in_mylist": true,
+  "test_shopping_cart.py::test_checkout_value_not_in_shopping_cart": true
+}
